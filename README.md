@@ -31,6 +31,8 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
+| Debmalya Nandy | nandydebmalya | https://github.com/nandydebmalya/MSExample |
+
 
 <br>
 
