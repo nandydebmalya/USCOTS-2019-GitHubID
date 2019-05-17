@@ -30,7 +30,7 @@
 | Name                    | GitHub ID            | website for a GitHub repo                               |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
-| Matt | mdbeckman | some website |
+| Debmalya Nandy | nandydebmalya | https://github.com/nandydebmalya |
 
 <br>
 
